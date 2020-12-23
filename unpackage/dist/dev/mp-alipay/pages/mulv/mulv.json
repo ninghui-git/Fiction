@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "目录",
+  "usingComponents": {
+    "uni-pagination": "/components/uni-ui/uni-pagination/uni-pagination"
+  }
+}

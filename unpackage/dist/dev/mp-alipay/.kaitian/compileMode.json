@@ -1,0 +1,9 @@
+{
+  "current": 0,
+  "modes": [
+    {
+      "title": "书城",
+      "page": "pages/index/index"
+    }
+  ]
+}

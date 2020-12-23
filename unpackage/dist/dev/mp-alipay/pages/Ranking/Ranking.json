@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "排行",
+  "pullRefresh": true,
+  "usingComponents": {
+    "aloys-tab": "/components/aloys-tab/aloys-tab",
+    "man-ranking": "/components/rankinglist/man-ranking",
+    "woman-ranking": "/components/rankinglist/woman-ranking"
+  }
+}

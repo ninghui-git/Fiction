@@ -1,0 +1,12 @@
+{
+  "defaultTitle": "小马哥小说",
+  "pullRefresh": true,
+  "usingComponents": {
+    "aloys-tab": "/components/aloys-tab/aloys-tab",
+    "lv-select": "/components/lv-select/lv-select",
+    "booklist": "/components/booklist/booklist",
+    "publish": "/components/publish/publish",
+    "icon": "/components/dn-icon/dn-icon",
+    "booklistworman": "/components/booklist/booklistworman"
+  }
+}

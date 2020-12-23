@@ -1,0 +1,1 @@
+<view class="ml"><view class="head">{{"共"+list.length+"章"}}</view><view><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view><view data-event-opts="{{[['tap',[['getChapter',['$0'],[[['list','',index]]]]]]]}}" class="chapter" bindtap="__e"><text class="chapter_s">{{item.name}}</text></view></view></block></view></view>

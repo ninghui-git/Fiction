@@ -1,0 +1,39 @@
+
+.tx-w {
+	margin-top: 15rpx;
+}
+.tx {
+	text-align: center;
+}
+.tx image {
+	width: 140rpx;
+	height: 140rpx;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+}
+.name {
+	text-align: center;
+	margin-top: 20rpx;
+}
+.name-qm {
+	text-align: center;
+	margin-top: 20rpx;
+	font-size: 30rpx;
+}
+.my {
+	font-size: 16px;
+	font-weight: 800;
+	margin-bottom: 10px;
+}
+.uni-list--border-top {
+	display: none;
+}
+.uni-list-item__container{
+	margin-top: 20px;
+}
+.uni-list-item {
+	width: 100%;
+	height: 70px;
+}
+
+

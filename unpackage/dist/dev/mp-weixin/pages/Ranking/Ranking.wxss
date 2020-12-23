@@ -1,0 +1,20 @@
+
+page.data-v-2adde134{
+	height: auto;
+}
+.content.data-v-2adde134 {
+	height:1500rpx;
+}
+.xxx.data-v-2adde134 {
+	font-size: 42rpx;
+	font-weight: bold;
+	padding: 100rpx 0;
+	text-align: center;
+	width: 100%;
+	height: 1000rpx;
+}
+man-ranking.data-v-2adde134{
+	width: 500rpx;
+	height: 1000rpx;
+}
+

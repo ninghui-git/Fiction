@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "书架",
+  "pullRefresh": true,
+  "usingComponents": {
+    "uni-list": "/components/uni-ui/uni-list/uni-list",
+    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item"
+  }
+}
